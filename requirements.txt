@@ -1,0 +1,7 @@
+aiogram
+openai==0.28.0
+gspread
+oauth2client
+google-api-python-client
+flask
+uvicorn
